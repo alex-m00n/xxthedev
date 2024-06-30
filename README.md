@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxthedev
 - 👀 I’m interested in dev web
-- 🌱 I’m currently learning php and js
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my discord @dead_div_wave
 
